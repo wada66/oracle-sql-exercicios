@@ -1,0 +1,33 @@
+# Arquivos temporários e backups
+*.tmp
+*.bak
+*.log
+*.swp
+*~
+*.old
+*.backup
+
+# Arquivos ocultos do sistema
+.DS_Store
+Thumbs.db
+
+# Pasta do Visual Studio Code
+.vscode/
+
+# Arquivos gerados pelo Oracle SQL Developer (se aplicável)
+*.sqlj
+*.class
+*.jar
+
+# Arquivos Java compilados (caso use no futuro)
+*.class
+*.exe
+*.out
+*.jar
+
+# Diretórios de build (para projetos futuros)
+dist/
+build/
+
+# Dependências (caso use Node.js no futuro)
+node_modules/
